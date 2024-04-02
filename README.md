@@ -1,0 +1,3 @@
+Exploring AI and ML Trends through Topic Modeling                                                                                         
+•	Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn, MS PowerPoint
+•	Overview: Developed a topic modeling system utilizing NLP techniques to analyze trends within a dataset comprising 2 million records in the domains of AI and ML. Employed LSA, LDA, and BERTopic methodologies to identify emerging trends. Created engaging visualizations aimed at aiding researchers, policymakers, and academic funders to gain a deeper understanding of the past landscape in AI and ML research.
